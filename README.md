@@ -8,4 +8,4 @@ It is a program that generates a random number and asks the user to enter the nu
 Task 2: 
 WordCountOps.java Is A SecondTask.{
 It is a program that Counts Total number of word by extracting the user input or text file . It returns the total number of words ,Frequency of each word and Number of unique words .
-}   
+}    
