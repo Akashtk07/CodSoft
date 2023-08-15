@@ -11,4 +11,5 @@ It is a program that Counts Total number of word by extracting the user input or
 }    
 
 Task 3:
+Student Management System
 {The Java Student Management System with Database CRUD Operations is a meticulously designed and feature-rich software solution that empowers educational institutions to efficiently manage student records, user administration, and data manipulation. Leveraging the power of Java programming and the reliability of MySQL databases, this project offers a seamless and user-friendly experience for admin }
